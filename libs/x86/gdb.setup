@@ -1,0 +1,7 @@
+set solib-search-path /Users/etienne/Dev/of_v0.9.2_android_release/apps/myApps/pluck//obj/local/x86:/Users/etienne/Dev/of_v0.9.2_android_release/apps/myApps/pluck//libs/x86
+set sysroot /Users/etienne/Dev/android-ndk-r10e/platforms/android-19/arch-arm/
+directory /Users/etienne/Dev/android-ndk-r10e/platforms/android-19/arch-arm/usr/include
+directory /Users/etienne/Dev/of_v0.9.2_android_release/apps/myApps/pluck//src
+directory /Users/etienne/Dev/android-ndk-r10e/sources/cxx-stl/system
+directory /Users/etienne/Dev/of_v0.9.2_android_release/apps/myApps/pluck//libs/x86
+
